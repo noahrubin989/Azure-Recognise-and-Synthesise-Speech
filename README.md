@@ -4,6 +4,7 @@
 
 ## Azure Setup
 The following is a guide on how to set up the required resource(s) for creating speech enabled apps.
+
 ### Create Resource
 First create the resource by searching for **Speech services**, then **Create**.
 <img width="1591" alt="Screenshot 2025-02-18 at 9 41 39 AM" src="https://github.com/user-attachments/assets/5dd95c73-0646-4cd8-83a9-e3e5f40a912b" />
@@ -24,3 +25,12 @@ Navigate to the newly deployed resource. We will need the **Keys and endpoint** 
 ---
 
 ## Code Steup
+
+Create and activate new virtual environment for the project to install the correct libraries seamlessly.
+
+```bash
+python3 -m venv speech_env
+```
+```bash
+source speech_env/bin/activate
+```
