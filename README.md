@@ -7,6 +7,12 @@ This script automatically converts your audio recordings into written text using
 
 ---
 
+## Solution Architecture
+Here is the workflow associated with converting speech to text using the SDK-based approach:
+![image](https://github.com/user-attachments/assets/0b0fe6e6-61bc-44e8-a51f-34c0fb773fc7)
+
+---
+
 ## Azure Setup
 The following is a guide on how to set up the required resource(s) for creating speech enabled apps.
 
