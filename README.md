@@ -39,3 +39,8 @@ Now install the required libraries by pasting in the terminal:
 ```bash
 pip install azure-cognitiveservices-speech python-dotenv playsound
 ```
+
+---
+
+## Resources
+* [The `SpeechConfig` class](https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-speech/azure.cognitiveservices.speech.speechconfig?view=azure-python)
