@@ -37,7 +37,7 @@ source speech_env/bin/activate
 
 Now install the required libraries by pasting in the terminal:
 ```bash
-pip install azure-cognitiveservices-speech python-dotenv playsound
+pip install azure-cognitiveservices-speech python-dotenv
 ```
 
 ---
