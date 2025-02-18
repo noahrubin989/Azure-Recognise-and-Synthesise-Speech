@@ -2,6 +2,11 @@
 
 ---
 
+## Project Overview
+This script automatically converts your audio recordings into written text using Azure's speech service. Simply place your `.wav` files in the `audio_files` folder, and the script will process them for you. Transcribed text files will then appear in the `text_files` folder, making it easy to review and share the results.
+
+---
+
 ## Azure Setup
 The following is a guide on how to set up the required resource(s) for creating speech enabled apps.
 
