@@ -45,7 +45,7 @@ Now install the required libraries by pasting in the terminal:
 pip install azure-cognitiveservices-speech python-dotenv
 ```
 
-Configure the `.env` file in the following way:
+Now configure the `.env` file in the following way:
 ```
 SPEECH_KEY=your_speech_key
 SPEECH_REGION=your_speech_region
