@@ -40,6 +40,12 @@ Now install the required libraries by pasting in the terminal:
 pip install azure-cognitiveservices-speech python-dotenv
 ```
 
+## Run the Program
+Run the program by running
+```bash
+python3 speech_to_text.py
+```
+
 ---
 
 ## Resources
